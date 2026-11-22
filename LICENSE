@@ -1,0 +1,92 @@
+KalpanaCore Proprietary Conceptual Architecture License
+
+Version 1.0
+
+Copyright © 2026 KalpanaCore. All Rights Reserved.
+
+1. Definitions
+
+For the purposes of this license:
+
+- Project refers to KalpanaCore and all associated repositories, documentation, architectural specifications, design concepts, and related materials.
+- Materials refers to all published content, including source files, technical documentation, diagrams, specifications, and conceptual designs.
+- Owner refers to the original creator and authorized rights holders of the Project.
+- Recipient refers to any individual or organization accessing or receiving the Materials.
+
+2. Ownership
+
+All rights, titles, and interests in the original Materials remain with their respective copyright holders.
+
+Access to the Project does not constitute a transfer of ownership or intellectual property rights.
+
+3. Permitted Use
+
+Recipients may:
+
+- Access and read publicly available documentation.
+- Reference the published specifications for informational and educational purposes.
+- Discuss and independently evaluate the architectural concepts.
+- Create independent implementations inspired by publicly described ideas, subject to applicable intellectual property laws.
+
+4. Restricted Activities
+
+Without prior written authorization from the Owner, recipients may not:
+
+- Republish or redistribute substantial portions of the original Materials as their own work.
+- Remove or alter copyright and ownership notices.
+- Claim official affiliation, endorsement, or authorization by KalpanaCore.
+- Use the KalpanaCore name or branding to misrepresent an independent project as an official implementation.
+- Present conceptual specifications as experimentally verified hardware capabilities.
+
+5. Derivative Works
+
+Modifications, adaptations, translations, and derivative documentation must clearly identify their independent origin.
+
+No derivative work may falsely claim to be an official KalpanaCore release.
+
+6. Trademarks and Identity
+
+The KalpanaCore name, logo, visual identity, and associated branding are reserved identifiers of the Project.
+
+This license does not grant trademark rights or permission to imply official affiliation.
+
+7. No Warranty
+
+The Project and all Materials are provided strictly on an "AS IS" and "AS AVAILABLE" basis.
+
+The Owner makes no warranties, express or implied, regarding accuracy, reliability, performance, feasibility, fitness for a particular purpose, or technical implementation.
+
+8. Limitation of Liability
+
+To the maximum extent permitted by applicable law, the Owner shall not be liable for any direct, indirect, incidental, consequential, or other damages arising from the use, interpretation, modification, or inability to use the Materials.
+
+9. Termination
+
+Any rights granted under this license automatically terminate upon violation of its applicable terms.
+
+Termination does not eliminate obligations or liabilities arising before termination.
+
+10. Amendments
+
+The Owner reserves the right to publish revised versions of this license.
+
+Each release of the Project must identify the license version governing its distribution.
+
+11. Governing Law
+
+This license shall be interpreted in accordance with applicable intellectual property laws and other applicable laws.
+
+12. Acceptance
+
+By accessing, using, or redistributing the Materials under the permissions granted herein, the Recipient acknowledges and agrees to the applicable terms of this license.
+
+---
+
+KalpanaCore
+
+Engineering Beyond Conventional Computational Boundaries.
+
+License Identifier: KPCAL-1.0
+License Type: Custom Proprietary License
+Version: 1.0
+Status: Active
